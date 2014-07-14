@@ -2,8 +2,8 @@ hyperarchitecture
 =================
 A generic architecture for hypermedia API's.
 
-Resource Logic Layer
-====================
+#Resource Logic Layer
+
 Hyperarchitecture adds a resource logic layer (RLL) to the mix separating the UI and the BLL.
 
 The RLL consists from resources and states (representations), where the states are structured according to the H-Factor (see also the hfactorclient).
